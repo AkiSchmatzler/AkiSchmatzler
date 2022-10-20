@@ -5,8 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiSchmatzler&theme=synthwave "Aki's Top Languages")
 
-- 🔭 I’m currently in my **third year of Bachelor in computer science** at the University of Strasbourg, France  
-- 🌱 I’m currently learning about artificial intelligence, electronics and geometry in the 3d world
+- 🔭 I’m currently in my **first year of Masters in Computer and Embedded Systems Engineering** at TU Delft, Netherlands  
+- I have a bachelor in computer science from Université de Strasbourg, France.
+- 🌱 I’m currently learning about advanced computing systems (GPU programming & FGPA mostly), Systems Engineering and hardware  
 - 📫 How to reach me: *aki.schmatzler@gmail.com*  
 
 ### My go-to's :  
