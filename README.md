@@ -1,7 +1,7 @@
 ### Hello friend 👋
 
 
-![Aki's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiSchmatzler&theme=synthwave&show_icons=true&count_private=true "Aki's Github stats")
+[![Aki's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiSchmatzler)](https://github.com/AkiSchmatzler/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiSchmatzler&theme=synthwave "Aki's Top Languages")
 
