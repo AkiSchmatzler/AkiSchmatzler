@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently in my **first year of Masters in Computer and Embedded Systems Engineering** at TU Delft, Netherlands  
 - I have a bachelor in computer science from Université de Strasbourg, France.
-- 🌱 I’m currently learning about Processor Design, Systems Engineering and hardware, and Evolutionary Algorithms 
+- 🌱 I’m currently learning about Visible Light Communication, Networking, and Security and Cryptography
+- I am working as a part time embedded developper at Sentistic 
 - 📫 How to reach me: *aki.schmatzler@gmail.com*  
 
 ### My go-to's :  
