@@ -1,10 +1,11 @@
 ### Hello friend 👋
 
 
-- 🔭 I’m currently in my **first year of Masters in Computer and Embedded Systems Engineering** at TU Delft, Netherlands  
+- 🔭 I’m currently in my **second year of Masters in Computer and Embedded Systems Engineering** at TU Delft, Netherlands
+- I am conducting research for my thesis, on accurate occupancy count using ceiling-based sensors and sensor fusion.
 - I have a bachelor in computer science from Université de Strasbourg, France.
 - 🌱 I’m currently learning about Visible Light Communication, Networking, and Security and Cryptography
-- I am working as a part time embedded developper at Sentistic 
+- I am working as a part time embedded developper at Sentistic, working on a simulator tool for their ceiling-based sensor.
 - 📫 How to reach me: *aki.schmatzler@gmail.com*  
 
 ### My go-to's :  
